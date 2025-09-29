@@ -27,9 +27,6 @@ To escape the hostile environment, he must fight corrupted robots and outsmart t
 - Additional levels and environments  
 - Save/load game progress  
 
-📷 **Screenshot**  
-![Gameplay Screenshot](assets/nevma.png)
-
 👨‍💻 **Developed by Panagiotis Zois**
 
 📄 **License**  
