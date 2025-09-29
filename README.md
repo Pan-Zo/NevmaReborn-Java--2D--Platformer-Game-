@@ -28,6 +28,3 @@ To escape the hostile environment, he must fight corrupted robots and outsmart t
 - Save/load game progress  
 
 👨‍💻 **Developed by Panagiotis Zois**
-
-📄 **License**  
-This project is licensed under the MIT License.
